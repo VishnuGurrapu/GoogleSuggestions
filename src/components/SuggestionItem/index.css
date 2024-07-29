@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+/* Write your CSS here */
+.suggestion-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.suggestion-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.img {
+  width: 20px;
+}
+
+.name {
+  font-size: 15px;
+  color: #475569;
+}
